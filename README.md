@@ -11,21 +11,26 @@
 ## Tech Stack
 
 **Languages**
+
 ![Languages](https://skillicons.dev/icons?i=ts,js,java,kotlin&perline=6)
 
 **Backend**
+
 ![Backend](https://skillicons.dev/icons?i=nodejs,express&perline=6)
 
 **Database**
+
 ![Database](https://skillicons.dev/icons?i=mysql,prisma,supabase&perline=6)
 
 **Tools**
-![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&perline=6)## Projects
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&perline=6)
+## Projects
 
 | Project | Description |
 |---|---|
-| **CFDI 4.0 API** | REST API for CFDI 4.0 XML generation. Private |
-| **FPL Draft Bot** | Discord bot for Fantasy Premier League Draft. Private |
+| **CFDI 4.0 API** | REST API for CFDI 4.0 XML generation. **(Private)** |
+| **FPL Draft Bot** | Discord bot for Fantasy Premier League Draft. |
 | **ModaStore** | Android app for clothing store management. |
 ## GitHub Stats 
 ![GitHub Stats](https://ghstats.dev/api/card?username=jaredalvarezdev)
