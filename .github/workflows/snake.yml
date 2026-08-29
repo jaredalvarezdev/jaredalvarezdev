@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: jaredalvarezdev
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=437DC0&color_dots=161B22,1E3A5F,2E5A94,3B6FAA,437DC0
+            dist/snake-dark.svg?palette=github-dark&color_snake=437DC0&color_dots=21262D,2D4A7A,375F9C,3F70B3,437DC0
             dist/snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
